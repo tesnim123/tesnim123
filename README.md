@@ -64,5 +64,6 @@
 <h2 align="left">Connect with me</h2>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/tesnim-khabacha-036300315/" target="_blank">LinkedIn</a>
+<a href="https://www.linkedin.com/in/tesnim-khabacha-036300315/" target="_blank">LinkedIn</a>  | 
+<a href="mailto:tesnimkhabacha7@gmail.com">Email</a>
 </p>
