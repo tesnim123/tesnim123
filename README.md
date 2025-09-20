@@ -14,7 +14,7 @@
 ✨ Creating apps and learning new tech<br>
 📚 I'm currently exploring Web Development, AI, DevOps, and Cloud technologies<br>
 🎯 Goals: Build scalable, user-friendly applications and contribute to innovative projects<br>
-🎲 Fun fact: I love turning ideas into small projects to test and learn new skills
+
 </p>
 
 ###
@@ -36,8 +36,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scss/scss-original.svg" height="40" alt="scss logo" />
-  <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo" />
