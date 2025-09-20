@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Tesnim Khabacha and I'm a second-year Software Engineering student from Tunisia.</p>
+<p align="left">My name is Tesnim Khabacha and I'm a second-year Software Engineering student at FST, Tunisia.</p>
 
 ###
 
@@ -11,10 +11,11 @@
 ###
 
 <p align="left">
-✨ Creating apps and learning new tech<br>
-📚 I'm currently exploring Web Development, AI, DevOps, and Cloud technologies<br>
-🎯 Goals: Build scalable, user-friendly applications and contribute to innovative projects<br>
-
+✨ Creating apps and learning new technologies<br>
+📚 I study at the Faculty of Sciences of Tunis (FST), where I focus on Web Development, Artificial Intelligence, and Software Engineering principles.<br>
+💻 Through my studies, internships, and personal projects, I have gained hands-on experience in full-stack development and database management.<br>
+🎯 My goal is to build scalable, user-friendly applications, explore cloud technologies, and contribute to innovative projects that make a difference.<br>
+🌱 I enjoy learning new frameworks, experimenting with code, and participating in hackathons to continuously sharpen my skills.
 </p>
 
 ###
@@ -30,12 +31,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
-  
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scss/scss-original.svg" height="40" alt="scss logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
@@ -54,5 +58,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo" />
-  
 </div>
