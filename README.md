@@ -39,8 +39,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
  
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+ 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo" />
   <img width="12" />
@@ -64,6 +63,5 @@
 <h2 align="left">Connect with me</h2>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/tesnim-khabacha-036300315/" target="_blank">LinkedIn</a>  | 
-<a href="mailto:tesnimkhabacha7@gmail.com">Email</a>
+<a href="https://www.linkedin.com/in/tesnim-khabacha-036300315/" target="_blank">LinkedIn</a>  
 </p>
